@@ -1,5 +1,5 @@
 create database db_ecommerce;
-use de_ecommerce;
+use db_ecommerce;
 
 create table tb_produtos(
 id bigint auto_increment,
